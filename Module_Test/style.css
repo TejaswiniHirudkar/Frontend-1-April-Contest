@@ -275,6 +275,7 @@
     border-top: 2px solid black;
     margin: 3px 20px !important;
   }
+  
   .card-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
